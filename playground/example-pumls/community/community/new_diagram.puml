@@ -1,0 +1,27 @@
+@startuml
+' Copy your diagram content here
+```plantuml
+@startmindmap
+*[#000000] <color:#FFFFFF><&infinity> Argument Map
+**[#2196F3] <color:#BBDEFB><&comment-square> In the fairest possible society, would everyone have the exact same amount of money and resources, or would some have more than others?
+***[#4CAF50] <color:#C8E6C9><&check> Reason: A fair society balances equality with meritocracy.
+****[#8BC34A] <color:#DCEDC8><&zoom-in> Evidence: Equal distribution of resources ensures everyone starts on a level playing field.
+****[#8BC34A] <color:#DCEDC8><&zoom-in> Evidence: Allowing some wealth differences incentivizes innovation and hard work.
+***[#4CAF50] <color:#C8E6C9><&check> Reason: Absolute equality may stifle motivation and economic progress.
+****[#8BC34A] <color:#DCEDC8><&zoom-in> Evidence: Studies show that some level of income disparity correlates with higher economic growth.
+****[#8BC34A] <color:#DCEDC8><&zoom-in> Evidence: Historical attempts at forced equality often led to inefficiencies and social unrest.
+
+***[#F44336] <color:#FFCDD2><&x> Objection: Allowing wealth disparities could lead to systemic inequality and exploitation.
+****[#FF9800] <color:#FFE0B2><&zoom-out> Counter Evidence: Wealth gaps tend to widen without proper safeguards like progressive taxation or welfare policies.
+****[#FFC107] <color:#FFECB3><&media-pause> Rebuttal: A fair society would ensure mechanisms to prevent extreme disparities, such as regulations and safety nets.
+
+***[#4CAF50] <color:#C8E6C9><&check> Co-Premises:
+****[#4CAF50] <color:#C8E6C9><&check> Fairness requires everyone to have equal opportunities, not necessarily equal outcomes.
+****[#4CAF50] <color:#C8E6C9><&check> Some differences in wealth reflect differences in effort, skill, or contributions, which can be considered fair.
+
+***[#4CAF50] <color:#C8E6C9><&check> Sub-Premise: Equality in opportunity can coexist with differences in wealth if societal structures prevent exploitation and ensure a basic standard of living.
+@endmindmap
+```
+
+To visualize the generated code, visit https://plantuml.github.io/plantuml.js/. Simply copy and paste the code to see the result.
+@enduml
